@@ -29,7 +29,8 @@ main {
 
 .job {
   margin-top: -10px;
-  margin-left: 90px;
+  margin-left: 100px;
+  color: #F3BF99;
 }
 
 .name {
@@ -38,7 +39,7 @@ main {
 
 .website {
   margin-top: -10px;
-  margin-left: 110px;
+  margin-left: 72px;
 }
 
 .buttons {
